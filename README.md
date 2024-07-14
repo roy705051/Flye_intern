@@ -23,4 +23,4 @@ Adjusts to a single-column layout on mobile screens.
 ### About Section: Provides information about the site or company.
 Adjusts text size and layout for readability on mobile screens.
 Stats and Feedback:
-#Created by RAHUL KUMAR
+# Created by RAHUL KUMAR
